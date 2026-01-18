@@ -1,7 +1,5 @@
 # Ai-MACHINE-LEARNING
 
-# AI Machine Learning
-
 This repository contains **machine learning projects and experiments**, emphasizing applied modeling and real-world relevance.
 
 ## Overview
